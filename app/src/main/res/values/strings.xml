@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthdayCard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="HappyBirthday">Happy Birthday %1$s!!</string>
+    <string name="From">From %1$s</string>
+
+</resources>
